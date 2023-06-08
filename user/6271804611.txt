@@ -1,0 +1,1 @@
+{'name_film': 0, 'link_film': 'Дом клоунов (1990)', 'num_film': '88', 'quest': 0, 'link_channel': 'fbspace_buy'}
